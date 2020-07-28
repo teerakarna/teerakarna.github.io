@@ -3,7 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.kubernaughty.dev/about/</loc>
+    <lastmod>2020-07-28T13:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.kubernaughty.dev/</loc>
+    <lastmod>2020-07-28T13:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kubernaughty.dev/about/contact/</loc>
+    <lastmod>2020-07-28T13:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kubernaughty.dev/about/cv/</loc>
+    <lastmod>2020-07-28T13:10:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kubernaughty.dev/pages/</loc>
+    <lastmod>2020-07-28T13:06:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kubernaughty.dev/pages/test/</loc>
+    <lastmod>2020-07-28T13:06:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.kubernaughty.dev/readme/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
