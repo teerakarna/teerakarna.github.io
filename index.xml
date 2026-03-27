@@ -6,8 +6,15 @@
     <description>Recent content on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:09:32 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:40:20 +0700</lastBuildDate>
     <atom:link href="https://teerakarna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Albert Asawaroengchai</title>
+      <link>https://teerakarna.github.io/about/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://teerakarna.github.io/about/</guid>
+      <description>Principal DevOps Engineer specializing in cloud-native computing and Kubernetes.</description>
+    </item>
     <item>
       <title>Test Showcase</title>
       <link>https://teerakarna.github.io/posts/test-showcase/</link>
