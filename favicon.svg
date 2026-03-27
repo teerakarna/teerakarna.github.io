@@ -9,5 +9,5 @@
   <!-- Powerline arrow: arms extended to left edge, filled Molokai purple -->
   <polygon clip-path="url(#bg)"
            points="0,0 20,16 0,32"
-           fill="#af87ff"/>
+           fill="#fd971f"/>
 </svg>
