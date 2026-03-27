@@ -6,7 +6,7 @@
     <description>Recent content on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:13:22 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 21:41:18 +0700</lastBuildDate>
     <atom:link href="https://teerakarna.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -14,6 +14,13 @@
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://teerakarna.github.io/about/</guid>
       <description>The journey and philosophy of Albert Asawaroengchai: From Linux roots to Cloud-Native leadership.</description>
+    </item>
+    <item>
+      <title>OpenClaw Journey</title>
+      <link>https://teerakarna.github.io/posts/openclaw-journey/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://teerakarna.github.io/posts/openclaw-journey/</guid>
+      <description>How I built a hardened, automated 24/7 AI agent on a Proxmox VM — reproducible, secure, and self-hosted.</description>
     </item>
     <item>
       <title>Test Showcase</title>

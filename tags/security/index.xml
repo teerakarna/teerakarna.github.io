@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Bertie&#39;s Blog</title>
-    <link>https://teerakarna.github.io/posts/</link>
-    <description>Recent content in Posts on Bertie&#39;s Blog</description>
+    <title>Security on Bertie&#39;s Blog</title>
+    <link>https://teerakarna.github.io/tags/security/</link>
+    <description>Recent content in Security on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 27 Mar 2026 21:41:18 +0700</lastBuildDate>
-    <atom:link href="https://teerakarna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teerakarna.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenClaw Journey</title>
       <link>https://teerakarna.github.io/posts/openclaw-journey/</link>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://teerakarna.github.io/posts/openclaw-journey/</guid>
       <description>How I built a hardened, automated 24/7 AI agent on a Proxmox VM — reproducible, secure, and self-hosted.</description>
-    </item>
-    <item>
-      <title>Test Showcase</title>
-      <link>https://teerakarna.github.io/posts/test-showcase/</link>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://teerakarna.github.io/posts/test-showcase/</guid>
-      <description>A typography and syntax-highlight showcase using the Molokai-derived terminal palette.</description>
     </item>
   </channel>
 </rss>
