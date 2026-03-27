@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="bg">
+      <rect width="32" height="32" rx="4"/>
+    </clipPath>
+  </defs>
   <!-- Molokai dark background -->
   <rect width="32" height="32" rx="4" fill="#1b1d1e"/>
-  <!-- > chevron — tmux accent colour -->
-  <path d="M5 8 L20 16 L5 24"
-        fill="none"
-        stroke="#d7ff00"
-        stroke-width="3.5"
-        stroke-linejoin="round"
-        stroke-linecap="round"/>
-  <!-- block cursor -->
-  <rect x="22" y="10" width="5" height="12" rx="1" fill="#d7ff00"/>
+  <!-- Powerline arrow: arms extended to left edge, filled Molokai purple -->
+  <polygon clip-path="url(#bg)"
+           points="0,0 20,16 0,32"
+           fill="#af87ff"/>
 </svg>
