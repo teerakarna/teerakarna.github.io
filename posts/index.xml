@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:09:32 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 11:35:05 +0700</lastBuildDate>
     <atom:link href="https://teerakarna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Showcase</title>
@@ -14,6 +14,68 @@
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://teerakarna.github.io/posts/test-showcase/</guid>
       <description>A typography and syntax-highlight showcase using the Molokai-derived terminal palette.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://teerakarna.github.io/posts/openclaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://teerakarna.github.io/posts/openclaw/</guid>
+      <description>&lt;h1 id=&#34;blog-post-outline-building-a-secure-personal-assistant-with-openclaw&#34;&gt;Blog Post Outline: Building a Secure Personal Assistant with OpenClaw&lt;/h1&gt;
+&lt;h2 id=&#34;1-introduction-the-vision&#34;&gt;1. Introduction: The Vision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Problem:&lt;/strong&gt; The &amp;ldquo;SaaS Tax&amp;rdquo; on privacy. Why I moved away from centralized, &amp;ldquo;chat-only&amp;rdquo; AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Intent:&lt;/strong&gt; Moving from a chatbot to an &lt;strong&gt;Agentic Runtime&lt;/strong&gt; that operates autonomously while I sleep.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Choice:&lt;/strong&gt; Why OpenClaw? (Local-first, markdown-based memory, and messenger-as-an-OS).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-first-principles--philosophy&#34;&gt;2. First Principles &amp;amp; Philosophy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data Sovereignty:&lt;/strong&gt; My data stays in my workspace (&lt;code&gt;~/openclaw&lt;/code&gt;), not a model provider&amp;rsquo;s training set.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proactive vs. Reactive:&lt;/strong&gt; Transitioning from &amp;ldquo;Ask and Answer&amp;rdquo; to &amp;ldquo;Set and Forget&amp;rdquo; via the &lt;strong&gt;Heartbeat&lt;/strong&gt; mechanism.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The &amp;ldquo;Vibe Coding&amp;rdquo; Workflow:&lt;/strong&gt; Treating skills as simple Markdown files that the agent can self-evolve.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-architectural-decisions-for-safety&#34;&gt;3. Architectural Decisions for Safety&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Gateway Pattern:&lt;/strong&gt; Running the OpenClaw Gateway on a local loopback (&lt;code&gt;127.0.0.1&lt;/code&gt;) to prevent external exposure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trust Boundaries:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Human-in-the-Loop (HITL):&lt;/strong&gt; Requiring manual confirmation for &amp;ldquo;High-Impact&amp;rdquo; tools (e.g., &lt;code&gt;send_email&lt;/code&gt;, &lt;code&gt;delete_file&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DM Pairing:&lt;/strong&gt; Restricting control to a specific Telegram/Signal ID to prevent unauthorized access.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sandboxing:&lt;/strong&gt; Using Docker containers for the &lt;code&gt;bash_tool&lt;/code&gt; to ensure code execution doesn&amp;rsquo;t escape the runtime.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-the-stack--infrastructure&#34;&gt;4. The Stack &amp;amp; Infrastructure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Core:&lt;/strong&gt; Node.js 22+ running on a dedicated Linux VPS or home lab (Raspberry Pi/Mac Mini).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Brain:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Primary (Reasoning):&lt;/strong&gt; Claude 3.5 Sonnet / Claude 4 via OpenRouter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secondary (Heartbeat):&lt;/strong&gt; Local Ollama (Llama 3/Mistral) for cost-efficient background checks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment:&lt;/strong&gt; Managed via &lt;code&gt;systemd&lt;/code&gt; to ensure the daemon survives reboots.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; Flat-file system (Markdown/YAML) for memory and configuration—no complex SQL databases required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5-implementation--hardening&#34;&gt;5. Implementation &amp;amp; Hardening&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Secure Tunneling:&lt;/strong&gt; Using Tailscale to access the OpenClaw Web UI remotely without opening public ports.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skill Auditing:&lt;/strong&gt; The process of reviewing &lt;code&gt;SKILL.md&lt;/code&gt; files from the community before dropping them into the &lt;code&gt;skills/&lt;/code&gt; folder.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identity Verification:&lt;/strong&gt; Implementing the &lt;code&gt;ALLOWED_USER_IDS&lt;/code&gt; environment variable for messaging integrations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;6-effective-usage-patterns&#34;&gt;6. Effective Usage Patterns&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The &amp;ldquo;Shadow Inbox&amp;rdquo;:&lt;/strong&gt; How I use OpenClaw to triage emails and only ping me for urgent matters.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Autonomous Research:&lt;/strong&gt; Setting the agent to scrape specific niches every 6 hours and update a &lt;code&gt;RESEARCH.md&lt;/code&gt; file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Context Management:&lt;/strong&gt; Using &lt;code&gt;MEMORY.md&lt;/code&gt; to keep the agent updated on my current projects and preferences without re-prompting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7-lessons-learned--the-future&#34;&gt;7. Lessons Learned &amp;amp; The Future&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Maintenance Curve:&lt;/strong&gt; It’s an apprentice, not a finished product; it needs &amp;ldquo;tuning.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scalability:&lt;/strong&gt; How adding more tools actually increases the risk surface, and how to manage that trade-off.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Closing Thought:&lt;/strong&gt; The shift from &amp;ldquo;using AI&amp;rdquo; to &amp;ldquo;managing an AI system.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; #OpenClaw #AI #Privacy #SelfHosting #Agents #Automation #CyberSecurity&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
