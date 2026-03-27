@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Molokai dark background -->
+  <rect width="32" height="32" rx="4" fill="#1b1d1e"/>
+  <!-- > chevron — tmux accent colour -->
+  <path d="M5 8 L20 16 L5 24"
+        fill="none"
+        stroke="#d7ff00"
+        stroke-width="3.5"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+  <!-- block cursor -->
+  <rect x="22" y="10" width="5" height="12" rx="1" fill="#d7ff00"/>
+</svg>
