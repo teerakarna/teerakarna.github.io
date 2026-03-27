@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://teerakarna.github.io/sitemap.xml
