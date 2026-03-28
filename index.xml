@@ -6,8 +6,15 @@
     <description>Recent content on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Mar 2026 21:41:18 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 22:30:51 +0700</lastBuildDate>
     <atom:link href="https://teerakarna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Commit to Cluster: A GitOps CI/CD Pipeline with GitHub Actions and ArgoCD</title>
+      <link>https://teerakarna.github.io/posts/gitops-pipeline-demo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://teerakarna.github.io/posts/gitops-pipeline-demo/</guid>
+      <description>A step-by-step tutorial for building a production-patterned GitOps pipeline on your local machine using kind, ArgoCD, GitHub Actions, and Helm.</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://teerakarna.github.io/about/</link>
