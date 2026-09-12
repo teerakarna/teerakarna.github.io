@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CI/CD on Bertie&#39;s Blog</title>
-    <link>https://teerakarna.github.io/tags/ci/cd/</link>
-    <description>Recent content in CI/CD on Bertie&#39;s Blog</description>
+    <title>Git on Bertie&#39;s Blog</title>
+    <link>https://teerakarna.github.io/tags/git/</link>
+    <description>Recent content in Git on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 13 Sep 2026 01:12:00 +0700</lastBuildDate>
-    <atom:link href="https://teerakarna.github.io/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teerakarna.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Every Check Green, and GitHub Still Refuses to Merge</title>
       <link>https://teerakarna.github.io/posts/github-refuses-to-merge-signed-commits/</link>
       <pubDate>Sun, 13 Sep 2026 01:10:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/posts/github-refuses-to-merge-signed-commits/</guid>
       <description>A pull request with every required check passing, no unresolved reviews, and a merge that fails anyway with a generic error. The cause is usually one commit you did not write.</description>
-    </item>
-    <item>
-      <title>From Commit to Cluster: A GitOps CI/CD Pipeline with GitHub Actions and ArgoCD</title>
-      <link>https://teerakarna.github.io/posts/gitops-pipeline-demo/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://teerakarna.github.io/posts/gitops-pipeline-demo/</guid>
-      <description>A step-by-step tutorial for building a production-patterned GitOps pipeline on your local machine using kind, ArgoCD, GitHub Actions, and Helm.</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,15 @@
     <description>Recent content in Security on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Mar 2026 21:41:18 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 01:12:00 +0700</lastBuildDate>
     <atom:link href="https://teerakarna.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Every Check Green, and GitHub Still Refuses to Merge</title>
+      <link>https://teerakarna.github.io/posts/github-refuses-to-merge-signed-commits/</link>
+      <pubDate>Sun, 13 Sep 2026 01:10:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/posts/github-refuses-to-merge-signed-commits/</guid>
+      <description>A pull request with every required check passing, no unresolved reviews, and a merge that fails anyway with a generic error. The cause is usually one commit you did not write.</description>
+    </item>
     <item>
       <title>OpenClaw Journey</title>
       <link>https://teerakarna.github.io/posts/openclaw-journey/</link>
