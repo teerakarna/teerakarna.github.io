@@ -15,5 +15,12 @@
       <guid>https://teerakarna.github.io/posts/candor-1-decisions-before-the-code/</guid>
       <description>Before writing a single controller, I spent the time on research, positioning, naming, and governance. Here is what that bought, and why it matters more for an AI tool than a normal one.</description>
     </item>
+    <item>
+      <title>When Reconciling Twice Costs Money: CRDs, Providers, and Content-Addressed Fingerprints</title>
+      <link>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</link>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</guid>
+      <description>CRDs, the provider pattern, and a content-addressed fingerprint that decides whether an expensive model call happens at all. Learning the operator pattern by building one where getting it wrong costs money.</description>
+    </item>
   </channel>
 </rss>

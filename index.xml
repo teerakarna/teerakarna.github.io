@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 13 Sep 2026 16:25:01 +0700</lastBuildDate>
     <atom:link href="https://teerakarna.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>When Reconciling Twice Costs Money: CRDs, Providers, and Content-Addressed Fingerprints</title>
+      <link>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</link>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</guid>
+      <description>CRDs, the provider pattern, and a content-addressed fingerprint that decides whether an expensive model call happens at all. Learning the operator pattern by building one where getting it wrong costs money.</description>
+    </item>
+    <item>
       <title>Read the Issue Tracker, Not the README: Researching Before Building an AI Ops Tool</title>
       <link>https://teerakarna.github.io/posts/candor-1-decisions-before-the-code/</link>
       <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>

@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AIOps on Bertie&#39;s Blog</title>
-    <link>https://teerakarna.github.io/tags/aiops/</link>
-    <description>Recent content in AIOps on Bertie&#39;s Blog</description>
+    <title>Controller-Runtime on Bertie&#39;s Blog</title>
+    <link>https://teerakarna.github.io/tags/controller-runtime/</link>
+    <description>Recent content in Controller-Runtime on Bertie&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 13 Sep 2026 16:25:01 +0700</lastBuildDate>
-    <atom:link href="https://teerakarna.github.io/tags/aiops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teerakarna.github.io/tags/controller-runtime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When Reconciling Twice Costs Money: CRDs, Providers, and Content-Addressed Fingerprints</title>
       <link>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</link>
       <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</guid>
       <description>CRDs, the provider pattern, and a content-addressed fingerprint that decides whether an expensive model call happens at all. Learning the operator pattern by building one where getting it wrong costs money.</description>
-    </item>
-    <item>
-      <title>Read the Issue Tracker, Not the README: Researching Before Building an AI Ops Tool</title>
-      <link>https://teerakarna.github.io/posts/candor-1-decisions-before-the-code/</link>
-      <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>
-      <guid>https://teerakarna.github.io/posts/candor-1-decisions-before-the-code/</guid>
-      <description>Before writing a single controller, I spent the time on research, positioning, naming, and governance. Here is what that bought, and why it matters more for an AI tool than a normal one.</description>
     </item>
   </channel>
 </rss>

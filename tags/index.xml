@@ -11,15 +11,50 @@
     <item>
       <title>AI</title>
       <link>https://teerakarna.github.io/tags/ai/</link>
-      <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AIOps</title>
       <link>https://teerakarna.github.io/tags/aiops/</link>
-      <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/tags/aiops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Controller-Runtime</title>
+      <link>https://teerakarna.github.io/tags/controller-runtime/</link>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/controller-runtime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://teerakarna.github.io/tags/go/</link>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubebuilder</title>
+      <link>https://teerakarna.github.io/tags/kubebuilder/</link>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/kubebuilder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://teerakarna.github.io/tags/kubernetes/</link>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operators</title>
+      <link>https://teerakarna.github.io/tags/operators/</link>
+      <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/operators/</guid>
       <description></description>
     </item>
     <item>
@@ -30,31 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Go</title>
-      <link>https://teerakarna.github.io/tags/go/</link>
-      <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>
-      <guid>https://teerakarna.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kubernetes</title>
-      <link>https://teerakarna.github.io/tags/kubernetes/</link>
-      <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>
-      <guid>https://teerakarna.github.io/tags/kubernetes/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Open Source</title>
       <link>https://teerakarna.github.io/tags/open-source/</link>
       <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/tags/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Operators</title>
-      <link>https://teerakarna.github.io/tags/operators/</link>
-      <pubDate>Sun, 13 Sep 2026 16:01:00 +0700</pubDate>
-      <guid>https://teerakarna.github.io/tags/operators/</guid>
       <description></description>
     </item>
     <item>
