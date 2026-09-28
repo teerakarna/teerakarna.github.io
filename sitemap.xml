@@ -8,22 +8,22 @@
     <loc>https://teerakarna.github.io/tags/aiops/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
+    <loc>https://teerakarna.github.io/tags/anthropic/</loc>
+    <lastmod>2026-09-13T16:25:01+07:00</lastmod>
+  </url><url>
     <loc>https://teerakarna.github.io/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
     <loc>https://teerakarna.github.io/series/building-candor/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
-    <loc>https://teerakarna.github.io/tags/controller-runtime/</loc>
-    <lastmod>2026-09-13T16:25:01+07:00</lastmod>
-  </url><url>
     <loc>https://teerakarna.github.io/tags/go/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
-    <loc>https://teerakarna.github.io/tags/kubebuilder/</loc>
+    <loc>https://teerakarna.github.io/tags/kubernetes/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
-    <loc>https://teerakarna.github.io/tags/kubernetes/</loc>
+    <loc>https://teerakarna.github.io/tags/llm/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
     <loc>https://teerakarna.github.io/tags/operators/</loc>
@@ -32,10 +32,22 @@
     <loc>https://teerakarna.github.io/posts/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
+    <loc>https://teerakarna.github.io/tags/prompt-injection/</loc>
+    <lastmod>2026-09-13T16:25:01+07:00</lastmod>
+  </url><url>
+    <loc>https://teerakarna.github.io/posts/candor-3-putting-an-llm-on-a-leash/</loc>
+    <lastmod>2026-09-13T16:25:01+07:00</lastmod>
+  </url><url>
     <loc>https://teerakarna.github.io/series/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
     <loc>https://teerakarna.github.io/tags/</loc>
+    <lastmod>2026-09-13T16:25:01+07:00</lastmod>
+  </url><url>
+    <loc>https://teerakarna.github.io/tags/controller-runtime/</loc>
+    <lastmod>2026-09-13T16:25:01+07:00</lastmod>
+  </url><url>
+    <loc>https://teerakarna.github.io/tags/kubebuilder/</loc>
     <lastmod>2026-09-13T16:25:01+07:00</lastmod>
   </url><url>
     <loc>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</loc>

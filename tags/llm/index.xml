@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Bertie&#39;s Blog</title>
+    <link>https://teerakarna.github.io/tags/llm/</link>
+    <description>Recent content in LLM on Bertie&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 13 Sep 2026 16:25:01 +0700</lastBuildDate>
+    <atom:link href="https://teerakarna.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Putting an LLM on a Leash: Gates, Budgets and Prompt Injection in a Kubernetes Operator</title>
+      <link>https://teerakarna.github.io/posts/candor-3-putting-an-llm-on-a-leash/</link>
+      <pubDate>Mon, 28 Sep 2026 10:10:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/posts/candor-3-putting-an-llm-on-a-leash/</guid>
+      <description>Adding a model to a Kubernetes operator is the easy part. The work is the interface, the gate, the budget ceiling, and making sure untrusted scanner output cannot talk to the model as if it were you.</description>
+    </item>
+  </channel>
+</rss>

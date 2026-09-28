@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 13 Sep 2026 16:25:01 +0700</lastBuildDate>
     <atom:link href="https://teerakarna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Putting an LLM on a Leash: Gates, Budgets and Prompt Injection in a Kubernetes Operator</title>
+      <link>https://teerakarna.github.io/posts/candor-3-putting-an-llm-on-a-leash/</link>
+      <pubDate>Mon, 28 Sep 2026 10:10:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/posts/candor-3-putting-an-llm-on-a-leash/</guid>
+      <description>Adding a model to a Kubernetes operator is the easy part. The work is the interface, the gate, the budget ceiling, and making sure untrusted scanner output cannot talk to the model as if it were you.</description>
+    </item>
+    <item>
       <title>When Reconciling Twice Costs Money: CRDs, Providers, and Content-Addressed Fingerprints</title>
       <link>https://teerakarna.github.io/posts/candor-2-operator-pattern-under-constraint/</link>
       <pubDate>Sun, 20 Sep 2026 19:55:00 +0700</pubDate>
