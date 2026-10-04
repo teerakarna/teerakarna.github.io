@@ -11,15 +11,57 @@
     <item>
       <title>AI</title>
       <link>https://teerakarna.github.io/tags/ai/</link>
-      <pubDate>Mon, 28 Sep 2026 10:10:00 +0700</pubDate>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>AIOps</title>
       <link>https://teerakarna.github.io/tags/aiops/</link>
-      <pubDate>Mon, 28 Sep 2026 10:10:00 +0700</pubDate>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/tags/aiops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://teerakarna.github.io/tags/go/</link>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grafana</title>
+      <link>https://teerakarna.github.io/tags/grafana/</link>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/grafana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://teerakarna.github.io/tags/kubernetes/</link>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observability</title>
+      <link>https://teerakarna.github.io/tags/observability/</link>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/observability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prometheus</title>
+      <link>https://teerakarna.github.io/tags/prometheus/</link>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SRE</title>
+      <link>https://teerakarna.github.io/tags/sre/</link>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/tags/sre/</guid>
       <description></description>
     </item>
     <item>
@@ -27,20 +69,6 @@
       <link>https://teerakarna.github.io/tags/anthropic/</link>
       <pubDate>Mon, 28 Sep 2026 10:10:00 +0700</pubDate>
       <guid>https://teerakarna.github.io/tags/anthropic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go</title>
-      <link>https://teerakarna.github.io/tags/go/</link>
-      <pubDate>Mon, 28 Sep 2026 10:10:00 +0700</pubDate>
-      <guid>https://teerakarna.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kubernetes</title>
-      <link>https://teerakarna.github.io/tags/kubernetes/</link>
-      <pubDate>Mon, 28 Sep 2026 10:10:00 +0700</pubDate>
-      <guid>https://teerakarna.github.io/tags/kubernetes/</guid>
       <description></description>
     </item>
     <item>

@@ -29,5 +29,12 @@
       <guid>https://teerakarna.github.io/posts/candor-3-putting-an-llm-on-a-leash/</guid>
       <description>Adding a model to a Kubernetes operator is the easy part. The work is the interface, the gate, the budget ceiling, and making sure untrusted scanner output cannot talk to the model as if it were you.</description>
     </item>
+    <item>
+      <title>Publishing Your Own Accuracy: Making Verification the Product</title>
+      <link>https://teerakarna.github.io/posts/candor-4-publishing-your-own-accuracy/</link>
+      <pubDate>Sun, 04 Oct 2026 19:30:00 +0700</pubDate>
+      <guid>https://teerakarna.github.io/posts/candor-4-publishing-your-own-accuracy/</guid>
+      <description>The whole series has been building toward one question: did any of it work? Verification outcomes, a dashboard that exists to be evidence rather than decoration, and what it took to test a dashboard honestly.</description>
+    </item>
   </channel>
 </rss>
